@@ -1,0 +1,6 @@
+[submodule "federated-learning-analysis"]
+	path = federated-learning-analysis
+	url = git@github.com:harrysharma1/federated-learning-analysis.git
+[submodule "sentiment-analysis"]
+	path = sentiment-analysis
+	url = git@github.com:harrysharma1/sentiment-analysis.git
