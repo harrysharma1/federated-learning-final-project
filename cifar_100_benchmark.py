@@ -148,9 +148,9 @@ for idx in range(total_images):
 mse_values, psnr_values, ssim_values = zip(*results)
 
 
-print(f"Mean Squared Error: {mse_values}")
-print(f"Peak Signal-to-Noise Ratio: {psnr_values}")
-print(f"SSIM: {ssim_values}")
+print(f"Mean Squared Error: {[float(mse_float) for mse_float in mse_values]}")
+print(f"Peak Signal-to-Noise Ratio: {[float(psnr_float) for psnr_float in psnr_values]}")
+print(f"SSIM: {[float(ssim_float) for ssim_float in ssim_values]}")
 
 plt.figure(figsize=(12, 4))
 plt.subplot(1, 3, 1)
