@@ -85,7 +85,7 @@ net = LeNet().to(device)
 net.apply(helper.weights_init)
 criterion = helper.cross_entropy_for_onehot
 
-total_images = 2
+total_images = 25
 results = []
 
 for idx in range(total_images):
