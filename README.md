@@ -16,7 +16,7 @@ This repository will host mostly if not all the code used for this project eithe
 #### TODO:
 - [x] DONE
 
-### [Web application to highlight this research.](https://github.com/harrysharma1/federated-learning-results).
+### [Web application to highlight this research.](https://github.com/harrysharma1/federated-learning-results)
 
 #### Features:
 - [x] Using [my tweaked DLG](https://github.com/harrysharma1/federated-learning-analysis) to showcase the effect of poor security on CIFAR Dataset.
