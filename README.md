@@ -8,23 +8,23 @@ This repository will host mostly if not all the code used for this project eithe
 
 ### [The Example I created as a test.](https://github.com/harrysharma1/federated-learning-analysis)
 
-#### Features:
+#### Features
 - [x] Re-implementation of [DLG](https://github.com/mit-han-lab/dlg) to understand how it works.
 - [x] Add Check for grayscale (to then convert to RGB) that was not in the original implementation.
 - [X] Showcase on README.
 
-#### TODO:
+#### TODO
 - [x] DONE
 
 ### [Web application to highlight this research.](https://github.com/harrysharma1/federated-learning-results)
 
-#### Features:
+#### Features
 - [x] Using [my tweaked DLG](https://github.com/harrysharma1/federated-learning-analysis) to showcase the effect of poor security on CIFAR Dataset.
 - [x] Add a multiple range version, that will also showcase this.
 - [x] Add randomise button for both single and multiple versions.
 - [x] Showcase similarity with measures of Structural Similarity Index Measure (SSIM), Mean Squar Error (MSE), and Peak Signal-To-Noise Ratio.
 
-#### TODO:
+#### TODO
 - [ ] Add upload for personal image to test this out.
 - [ ] Add text based version to showcase this.
 - [ ] more to come...
