@@ -15,6 +15,7 @@ __Features__:
 - [x] Add a multiple range version, that will also showcase this.
 - [x] Add randomise button for both single and multiple versions.
 - [x] Showcase similarity with measures of Structural Similarity Index Measure (SSIM), Mean Squar Error (MSE), and Peak Signal-To-Noise Ratio.
+
 __TODO__:
 - [ ] Add upload for personal image to test this out.
 - [ ] Add text based version to showcase this.
