@@ -1,6 +1,6 @@
 # Federated Learning Security Analysis
 
-This repository will host mostly if not all the code used for this project either directly on here, or as [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+This repository will host mostly if not all the code used for this project either directly on here (will be underscored e.g. [dlg_notebook](https://github.com/harrysharma1/federated-learning-security/tree/main/dlg_notebooks)), or as [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) (will be dashed e.g. [federated-learning-analysis](https://github.com/harrysharma1/federated-learning-analysis/tree/884b9a62deac353a49ea6e9e530d853e27873e7f).
 
 ## Table of Contents
 
