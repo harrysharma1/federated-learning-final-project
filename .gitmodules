@@ -1,3 +1,9 @@
 [submodule "sentiment-analysis"]
 	path = sentiment-analysis
 	url = git@github.com:harrysharma1/sentiment-analysis.git
+[submodule "federated-learning-web-app"]
+	path = federated-learning-web-app
+	url = git@github.com:harrysharma1/federated-learning-web-app.git
+[submodule "federated-learning-dlg-example"]
+	path = federated-learning-dlg-example
+	url = https://github.com/harrysharma1/federated-learning-dlg-example
