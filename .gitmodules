@@ -1,3 +1,6 @@
 [submodule "federated-learning-dlg-example"]
 	path = federated-learning-dlg-example
 	url = https://github.com/harrysharma1/federated-learning-dlg-example
+[submodule "federated-learning-research-results"]
+	path = federated-learning-research-results
+	url = https://github.com/harrysharma1/federated-learning-research-results
