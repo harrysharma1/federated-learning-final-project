@@ -4,3 +4,6 @@
 [submodule "federated-learning-research-results"]
 	path = federated-learning-research-results
 	url = https://github.com/harrysharma1/federated-learning-research-results
+[submodule "federated-learning-web-app"]
+	path = federated-learning-web-app
+	url = https://github.com/harrysharma1/federated-learning-web-app
